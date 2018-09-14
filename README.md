@@ -1,15 +1,15 @@
 # Game-List
 **This is a game list**
 
-Franchise The Witcher
-Franchise Divinity
-Franchise The Elder Scrolls
-Vampyr
-Franchise Nioh
-Franchise Dragon Age
-Franchise Final Fantasy
-Franchise Persona
-Franchise The Legend of Zelda
+*Franchise The Witcher
+*Franchise Divinity
+*Franchise The Elder Scrolls
+*Vampyr
+*Franchise Nioh
+*Franchise Dragon Age
+*Franchise Final Fantasy
+*Franchise Persona
+*The Legend of Zelda
 Franchise Diablo
 Franchise Tales of 
 Franchise NI NO KUNI
