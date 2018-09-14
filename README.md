@@ -1,6 +1,6 @@
 # Game-List
 
--------------------
+
 
 Franchise The Witcher.
 Franchise Divinity.
