@@ -1,6 +1,6 @@
 
 
-## REMINDER:We are developing a page with more information about these games.
+## REMINDER: We are developing a page with more information about these games.
 
 Franchise The Witcher.
 
